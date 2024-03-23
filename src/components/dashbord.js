@@ -1,8 +1,6 @@
 import React  from 'react';
 import Nav from './nav';
-import Blog from './blog';
-import Service from './service';
-import Contact from './contact';
+
 import Demands from './gestion';
 
 
